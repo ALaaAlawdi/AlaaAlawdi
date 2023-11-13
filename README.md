@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaa Abdu Saleh Alawdi</h1>
+<h1 align="center">Hi 👋, I'm Alaa Abdu Alawdi</h1>
 <h3 align="center">A Passionate Data Science And NLP Engineering</h3>
 
 ### About Me 📊

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Abdu Saleh Alawdi</h1>
-<h3 align="center">A passionate data science and NLP engineering</h3>
+<h3 align="center">A Passionate Data Science And NLP Engineering</h3>
 
 ### About Me 📊
 A results-driven 4th-year CS student with a passion for data science, possessing hands-on experience in 5+ projects applying diverse data science concepts with PyTorch , Tensorflow and Keras and ML algorithms with Scikit-Learn. I am interested in following and reading the latest research , theory and best practices in the field. Seeking a challenging data science role in a large enterprise to drive impact, learn, and collaborate with a talented team.

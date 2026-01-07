@@ -1,55 +1,144 @@
 <p align="center">
-  <img width="28%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Programming animation"/>
+  <img width="28%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Programming Animation"/>
 </p>
 
-<h2 align="center">Hi, I'm Ala'a Abdu ALawdi 👋</h2>
+<h1 align="center">Ala'a Abdu ALawdi</h1>
 
 <p align="center">
-  Data Scientist with a strong focus on <b>machine learning</b>, <b>data analysis</b>, and <b>production-ready data systems</b>.
+  <b>AI Engineer | Data & ML Systems | LLMs & AI Agents</b><br/>
+  Riyadh, Saudi Arabia
 </p>
 
 <p align="center">
-  I work primarily with <b>Python</b> and modern data science & ML tooling, and I’m continuously improving my skills in building reliable, scalable data-driven solutions.
+  Building production-grade AI systems, LLM-powered applications, and scalable data pipelines with a strong product mindset.
 </p>
 
 ---
 
-### 🔍 About Me
-- 📊 Data Scientist with hands-on experience in data analysis and machine learning  
-- 🧠 Interested in production ML, data pipelines, and real-world data challenges  
-- 📚 Continuously learning and applying best practices in data science & engineering  
+## 👋 About Me
+
+I am an **AI Engineer** with hands-on experience designing and delivering **AI-powered products**, **LLM-based agents**, **RAG pipelines**, and **automation systems** used in real production environments.
+
+My background combines:
+- **Machine Learning & Deep Learning**
+- **Production Data & Backend Systems**
+- **LLMs, Agents, and Retrieval Systems**
+- **Product thinking & user-centric design**
+
+I focus on turning AI capabilities into **reliable, scalable, and impactful products**.
 
 ---
 
-### 🛠️ Core Skills & Tools
-**Languages & Frameworks**
-- Python, SQL  
-- Scikit-learn, TensorFlow, Keras  
-- Pandas, NumPy, Statsmodels  
+## 🧠 Core Expertise
 
-**Data & Visualization**
-- Matplotlib, Seaborn  
-- SHAP (model explainability)  
-
-**Platforms & Tooling**
-- PostgreSQL  
-- Git & GitHub  
-- Streamlit  
-- Google Colab  
-- Weights & Biases (wandb)  
+- AI Agents & LLM Systems (LangChain, RAG, MCP)
+- Machine Learning & Deep Learning (NLP, CV, Generative AI)
+- Data Pipelines & Vector Search
+- Backend APIs & Automation
+- Production AI & Monitoring
+- Product-oriented AI development
 
 ---
 
-### 📫 Connect With Me
+## 🛠️ Languages, Frameworks & Tools
+
+### Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+### Machine Learning & AI
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40"/>
+</p>
+
+### Data & Visualization
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40"/>
+</p>
+
+### Backend, APIs & Automation
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/icon/master/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+### Databases & Messaging
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Professional Experience
+
+### AI Agent Specialist — IgniteAI
+- Leading development of **LLM-powered autonomous agents**
+- Designing scalable agent architectures for automation
+- Deploying production-grade AI systems
+- Continuous monitoring, testing, and optimization
+
+### Chatbot Developer — SmaSoft
+- Built multi-turn conversational AI systems
+- Implemented **semantic search & vector retrieval**
+- Designed document analysis & OCR pipelines
+- Integrated LLMs into customer support workflows
+
+### AI Developer (Freelance)
+- Delivered end-to-end AI solutions (LLMs, CV, NLP)
+- Built RAG systems, chatbots, APIs, and automation tools
+- Fine-tuned models and deployed production ML pipelines
+- Worked across FastAPI, Django, React, and cloud platforms
+
+---
+
+## 📌 Selected Projects
+
+- LLM-based RAG systems & AI agents
+- Workflow automation with n8n & Zapier
+- Medical & Legal AI assistants
+- Text-to-video generation systems
+- End-to-end ML prediction systems
+
+---
+
+## 🎓 Education
+**BSc in Computer Science** — IBB University  
+Yemen | 2020 – 2024
+
+---
+
+## 🌍 Languages
+- Arabic (Native)
+- English (Professional)
+
+---
+
+## 📫 Connect With Me
 <p align="center">
   <a href="mailto:ais.alawdi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Professional-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/alaa-alawdi/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;
   <a href="https://twitter.com/alaa_alawdi">
     <img src="https://img.shields.io/badge/Twitter-Professional-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -57,20 +146,14 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avikumart&theme=dark" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avikumart&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikumart&theme=radical&layout=compact" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avikumart&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikumart&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=avikumart)
+<p align="center">
+  <i>Focused on production AI, real data, and systems that scale.</i>
+</p>
